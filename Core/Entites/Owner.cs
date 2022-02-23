@@ -2,6 +2,7 @@
 {
     public class Owner : BaseClass
     {
+        //kosmeeen men men men omkkkk
         public string FullName { get; set; }
         public string  Profil { get; set; }
         public string Avatar { get; set; }
